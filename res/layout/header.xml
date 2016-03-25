@@ -17,7 +17,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="?android:attr/actionBarSize"
-    android:background="@drawable/header_background"
+    android:background="@drawable/switchbar_background"
     android:gravity="center_vertical"
     android:theme="@style/Theme.Header.Settings" >
 
@@ -35,7 +35,7 @@
         android:layout_marginStart="@dimen/header_subsettings_margin_start"
         android:layout_alignWithParentIfMissing="true"
         android:layout_centerVertical="true"
-        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textAppearance="@android:style/TextAppearance.Material.Title"
         android:textColor="@android:color/white"
         android:textAlignment="viewStart" />
 
