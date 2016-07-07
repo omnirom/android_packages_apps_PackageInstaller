@@ -31,7 +31,6 @@
         android:id="@+id/name"
         android:layout_height="wrap_content"
         android:layout_width="match_parent"
-        android:layout_toStartOf="@+id/app_settings"
         android:layout_marginStart="@dimen/header_subsettings_margin_start"
         android:layout_alignWithParentIfMissing="true"
         android:layout_centerVertical="true"
@@ -52,11 +51,4 @@
         android:src="@drawable/ic_info"
         style="?android:attr/borderlessButtonStyle" />
 
-    <View
-        android:id="@+id/row_divider"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="?android:attr/listDivider" />
-
 </RelativeLayout>
-
