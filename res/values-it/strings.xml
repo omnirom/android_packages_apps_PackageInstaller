@@ -237,7 +237,7 @@
     <string name="role_browser_label" msgid="814240075813716311">"App browser predefinita"</string>
     <string name="role_browser_short_label" msgid="6222206565850006894">"App browser"</string>
     <string name="role_browser_description" msgid="2326990202516329438">"App che ti forniscono accesso a Internet e mostrano i link che tocchi"</string>
-    <string name="role_browser_request_title" msgid="751745081301397114">"Impostare <xliff:g id="APP_NAME">%1$s</xliff:g> come app ber browser predefinita?"</string>
+    <string name="role_browser_request_title" msgid="751745081301397114">"Impostare <xliff:g id="APP_NAME">%1$s</xliff:g> come app browser predefinita?"</string>
     <string name="role_browser_request_description" msgid="3204873553391043604">"Nessuna autorizzazione necessaria"</string>
     <string name="role_dialer_label" msgid="7920168918746178929">"App telefono predefinita"</string>
     <string name="role_dialer_short_label" msgid="2980581587550675305">"App telefono"</string>
